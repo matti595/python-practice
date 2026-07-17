@@ -1,0 +1,20 @@
+[
+    {
+        "name": "小明",
+        "age": 22,
+        "contact": {
+            "email": "xiaoming@example.com",
+            "phone": "123-456-7890"
+        },
+        "hobbies": ["阅读", "远足", "编程"]
+    },
+    {
+        "name": "小华",
+        "age": 20,
+        "contact": {
+            "email": "xiaohua@example.com",
+            "phone": "987-654-3210"
+        },
+        "hobbies": ["绘画", "旅行", "跳舞"]
+    }
+]
