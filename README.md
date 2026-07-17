@@ -1,2 +1,4 @@
 # python-practice
 My Python learning notes and exercises.
+主要用于存放个人作业、笔记和课程课件
+上海财经大学2025-2026春季学期 Python程序设计（1069）
